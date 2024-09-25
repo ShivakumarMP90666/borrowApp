@@ -1,0 +1,12 @@
+2024-07-16 15:37:05.703232: AssertionError: First Item Details Did not Match
+2024-07-16 15:41:23.527894: AssertionError: First Item Details Did not Match
+2024-07-16 16:51:20.295614: AssertionError: First Item Details Did not Match
+2024-07-16 17:01:45.505489: AssertionError: First Search Item Details Did not Match
+2024-07-16 17:02:49.441226: AssertionError: First Item Details Did not Match
+2024-07-16 17:07:01.424396: AssertionError: First Search Item Details Did not Match
+2024-07-16 17:10:15.687603: AssertionError: First Item Details Did not Match
+2024-07-16 17:14:54.781220: AssertionError: First Search Item Details Did not Match
+2024-07-16 17:23:02.938326: AssertionError: First Search Item Details Did not Match
+2024-07-16 17:26:23.841622: AssertionError: First Item Details Did not Match
+2024-07-16 18:01:00.887302: AssertionError: First Item Details Did not Match
+2024-07-16 18:03:05.229675: AssertionError: First Search Item Details Did not Match
