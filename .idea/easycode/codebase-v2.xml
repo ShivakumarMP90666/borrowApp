@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/.pytest_cache/README.md;C:/PycharmProjects/borrowApp/pageObjects/__init__.py;C:/PycharmProjects/borrowApp/pageObjects/addItemHomePage.py;C:/PycharmProjects/borrowApp/pageObjects/BorrowNow.py;C:/PycharmProjects/borrowApp/pageObjects/LoginPage.py;C:/PycharmProjects/borrowApp/Reports/assets/style.css;C:/PycharmProjects/borrowApp/Reports/reports.html;C:/PycharmProjects/borrowApp/testCases/.pytest_cache/README.md;C:/PycharmProjects/borrowApp/testCases/__init__.py;C:/PycharmProjects/borrowApp/testCases/conftest.py;C:/PycharmProjects/borrowApp/testCases/test_addItemInHomePage.py;C:/PycharmProjects/borrowApp/testCases/test_borrow_now.py;C:/PycharmProjects/borrowApp/testCases/test_login.py;C:/PycharmProjects/borrowApp/testCases/test_searchBorrowNow.py;C:/PycharmProjects/borrowApp/utilities/__init__.py;C:/PycharmProjects/borrowApp/utilities/customLogger.py;C:/PycharmProjects/borrowApp/utilities/readProperties.py" />
+  </component>
+</project>
